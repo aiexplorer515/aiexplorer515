@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### 🌱 I'm just starting to learning AI.
+#### 🌱 I'm just starting to learn AI.
 #### You can see  my growth here.
 #### Look forward to it. Now, I love AI & Data Science~~~
 
