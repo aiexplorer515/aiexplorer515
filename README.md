@@ -1,7 +1,8 @@
 ### Hi there 👋
-I am interested in AI
-I just started studing AI.
-You can see  my growth here.
+### I am interested in AI
+### I just started studing AI.
+### You can see  my growth here.
+### Look forward to it.
 
 
 
