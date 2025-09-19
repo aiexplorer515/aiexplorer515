@@ -1,7 +1,5 @@
-### Hi there 👋
-#### 🌱 I'm just starting to learn AI.
-#### You can see  my growth here.
-#### Look forward to it. Now, I love AI & Data Science~~~
+### AI 보안(Security) · LLM 안전성(Safety) 연구자.
+### 프롬프트 인젝션(Prompt Injection) 방어, RAG 보안(RAG Security), 재현 가능한 평가(Reproducible Eval)에 집중합니다.
 
 
 
